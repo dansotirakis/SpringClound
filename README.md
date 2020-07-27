@@ -1,1 +1,1 @@
-SpringNetflixOS
+SpringCloudNetflixOS
